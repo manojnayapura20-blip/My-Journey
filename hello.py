@@ -8,4 +8,9 @@ else:
    print("your zero")
 
 
-Enter = bolean(input("YOU ARE A BOY : TRUE or Fales "))
+is_boy = bolean(input("YOU ARE A BOY : TRUE or Fales "))
+if is_boy == TRUE :
+    print("you can sex")
+
+else:
+    print("fuck off")
